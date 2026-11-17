@@ -1,8 +1,8 @@
-# Gauri Greens - Website Clone 🏰🌿
+# Indra Marriage Garden - Website Clone 🏰🌿
 
-> Full-fidelity, high-performance website clone of **[Gauri Greens](https://gaurigreens.com/)** — Bhopal's premier 5-acre luxury wedding destination, marriage garden, and banquet resort on Hoshangabad Road (NH-12), Misrod, Bhopal.
+> Full-fidelity, high-performance website clone of **[Indra Marriage Garden](https://indramarriagegarden.com/)** — Jhansi's premier 5-acre luxury wedding destination, marriage garden, and banquet resort on Unnao Gate Bahar, Nagoji Ka Kua, Jhansi.
 
-![Gauri Greens Banner](assets/images/wedding-reception.webp)
+![Indra Marriage Garden Banner](assets/images/wedding-reception.webp)
 
 ---
 
@@ -22,10 +22,10 @@
   - `weddings.html`
   - `contact.html`
 - **Filterable Photo & Decor Gallery:** With interactive full-screen Lightbox modal.
-- **Eco-Friendly Concept:** Highlights Gauri Greens' signature *Green Invitations* initiative.
+- **Eco-Friendly Concept:** Highlights Indra Marriage Garden' signature *Green Invitations* initiative.
 - **Direct WhatsApp Booking Engine:** Pre-fills event inquiries and redirects directly to WhatsApp (`+91 95890 08911`).
 - **Official FAQs & Testimonials:** Real client reviews and venue Q&As from the original site.
-- **Embedded Google Maps:** Directions to Misrod, Hoshangabad Road (NH-12), Bhopal.
+- **Embedded Google Maps:** Directions to Misrod, Unnao Gate Bahar, Nagoji Ka Kua, Jhansi, Jhansi.
 - **Mobile Responsive:** 100% responsive across mobile, tablet, and desktop with off-canvas navigation.
 
 ---
@@ -33,7 +33,7 @@
 ## 📂 Project Structure
 
 ```
-gauri-greens-clone/
+Indra Marriage Garden-clone/
 ├── index.html            # Main Homepage
 ├── atharvv-lawn.html     # Atharvv Lawn Detailed Page
 ├── pratham-lawn.html     # Pratham Lawn Detailed Page
@@ -70,8 +70,8 @@ npx serve
 ---
 
 ## 📞 Contact Information (Official)
-- **Venue:** Gauri Greens Marriage Garden & Resort
-- **Location:** Hoshangabad Road (NH-12), Near Misrod, Bhopal, Madhya Pradesh 462047
+- **Venue:** Indra Marriage Garden Marriage Garden & Resort
+- **Location:** Unnao Gate Bahar, Nagoji Ka Kua, Jhansi, Uttar Pradesh
 - **Phone:** +91 95890 08911
-- **Email:** prateek@gaurigreens.com
-- **Original Website:** [https://gaurigreens.com/](https://gaurigreens.com/)
+- **Email:** prateek@indramarriagegarden.com
+- **Original Website:** [https://indramarriagegarden.com/](https://indramarriagegarden.com/)

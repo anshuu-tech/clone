@@ -1,5 +1,5 @@
 /**
- * Gauri Greens - Main JavaScript
+ * Indra Marriage Garden - Main JavaScript
  * Handling Navigation, Sliders, Tabs, Lightbox, FAQs, and WhatsApp Booking
  */
 
@@ -172,7 +172,7 @@ document.addEventListener('DOMContentLoaded', function () {
       return;
     }
 
-    const text = `*New Event Booking Inquiry - Gauri Greens*
+    const text = `*New Event Booking Inquiry - Indra Marriage Garden*
 ----------------------------------------
 *Name:* ${data.name}
 *Phone:* ${data.phone}

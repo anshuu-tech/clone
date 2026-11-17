@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 180" width="540" height="180">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dfb94c" />
+      <stop offset="50%" stop-color="#c59b27" />
+      <stop offset="100%" stop-color="#9b7513" />
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d6a4f" />
+      <stop offset="100%" stop-color="#122d20" />
+    </linearGradient>
+  </defs>
+
+  <!-- Left Crest / Monogram -->
+  <g transform="translate(15, 10)">
+    <!-- Decorative Outer Ring -->
+    <circle cx="75" cy="80" r="68" fill="none" stroke="url(#goldGrad)" stroke-width="2.5" stroke-dasharray="4,3" />
+    <circle cx="75" cy="80" r="60" fill="url(#greenGrad)" stroke="url(#goldGrad)" stroke-width="2" />
+    
+    <!-- Crown at Top -->
+    <path d="M 55 45 L 63 60 L 75 42 L 87 60 L 95 45 L 90 70 L 60 70 Z" fill="url(#goldGrad)" />
+    <circle cx="55" cy="42" r="2.5" fill="#dfb94c" />
+    <circle cx="75" cy="38" r="3.5" fill="#dfb94c" />
+    <circle cx="95" cy="42" r="2.5" fill="#dfb94c" />
+
+    <!-- Monogram Letters: IMG -->
+    <text x="75" y="108" font-family="'Cinzel', 'Playfair Display', serif" font-size="34" font-weight="bold" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="2">IMG</text>
+    
+    <!-- Bottom Laurel branch -->
+    <path d="M 45 118 Q 75 130 105 118" fill="none" stroke="url(#goldGrad)" stroke-width="2" />
+    <circle cx="75" cy="126" r="3" fill="#dfb94c" />
+  </g>
+
+  <!-- Brand Typography -->
+  <!-- Main Title: INDRA -->
+  <text x="180" y="75" font-family="'Playfair Display', 'Cinzel', serif" font-size="54" font-weight="800" fill="#122d20" letter-spacing="3">INDRA</text>
+
+  <!-- Subtitle 1: MARRIAGE GARDEN -->
+  <text x="182" y="112" font-family="'Plus Jakarta Sans', sans-serif" font-size="19" font-weight="700" fill="url(#goldGrad)" letter-spacing="5">MARRIAGE GARDEN</text>
+
+  <!-- Decorative Separator Line -->
+  <line x1="182" y1="126" x2="480" y2="126" stroke="url(#goldGrad)" stroke-width="1.5" />
+  <circle cx="331" cy="126" r="3" fill="#c59b27" />
+
+  <!-- Subtitle 2: JHANSI (U.P.) -->
+  <text x="331" y="148" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="600" fill="#64748b" text-anchor="middle" letter-spacing="6">UNNAO GATE BAHAR • JHANSI</text>
+</svg>
