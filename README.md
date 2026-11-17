@@ -2,24 +2,20 @@
 
 > High-fidelity, luxury wedding venue website for **Indra Marriage Garden** — Jhansi's premier open lawn and banquet celebration destination located at Bahar Unnao Gate Main Road, Near Naogoji Kua, Jhansi, Uttar Pradesh - 284002.
 
-![Indra Garden Hero Banner](assets/images/indra-hero-night.jpg)
+![Indra Garden Hero Banner](assets/images/new-indra-canopy-night.webp)
 
 ---
 
 ## 🌟 Key Features & Structure
 
 - **Royal Wedding Design:** Deep emerald green (`#1d4631`) and metallic gold (`#c59b27`) palette with elegant typography (*Playfair Display*, *Cinzel*, *Plus Jakarta Sans*).
-- **12 Authentic On-Site Photos:** Featuring real captured moments of Indra Garden:
-  - `indra-stage-mandap.jpg` — Royal Stage & Floral Mandap
-  - `indra-hero-night.jpg` — Starlit Evening Lawn Illumination
-  - `indra-dining-pavilion.jpg` — Covered Weatherproof Dining Pavilion
-  - `indra-stage-portrait.jpg` — Royal Throne & Stage Close-up
-  - `indra-lawn-daytime.jpg` — Lush Green Open Turf
-  - `indra-aerial-lawn.jpg` — Expansive Grounds Overview
-  - `indra-entrance-gate.jpg` — Grand Entrance on Bahar Unnao Gate
-  - `indra-banquet-setup.jpg` — Banquet Seating & Guest Arrangements
-  - `indra-night-decor.jpg` — Ambient Night Lighting & Fairylights
-  - `indra-venue-view-1.jpg`, `2.jpg`, `3.jpg` — Campus Perspectives & Walkways
+- **Brand New High-Resolution Visuals:**
+  - `new-indra-entrance.webp` — Festive Grand Entrance Gate on Bahar Unnao Gate
+  - `new-indra-stage.webp` — Elegant Wedding Stage & Royal Floral Bouquet
+  - `new-indra-canopy-night.webp` — Starlit Wedding Canopy & Lawn Celebration
+  - `new-indra-buffet-dining.webp` — Nighttime Buffet & Covered Dining Gathering
+  - `new-indra-wedding-ceremony.webp` — Festive Wedding Ceremony & Mandap
+  - Plus 12 on-site campus and lawn perspectives in the interactive gallery.
 - **Dedicated Venue Spaces:**
   - **The Grand Open Lawn:** Expansive, open-air green grounds for 1,200–1,600+ guests with wide baraat entry.
   - **Covered Dining Pavilion:** Weatherproof catering & buffet space with dedicated handwash facilities.
@@ -33,7 +29,7 @@
   - `weddings.html` (Weddings & Decor)
   - `contact.html` (Contact Us & Directions)
 - **Direct WhatsApp Booking Engine:** Pre-fills event inquiries and redirects directly to WhatsApp (`+91 98765 43210`).
-- **Interactive Lightbox Modal:** Full-screen zoom and inspection for all 12 gallery photos.
+- **Interactive Lightbox Modal:** Full-screen zoom and inspection for all gallery photos.
 - **Google Maps Directions:** Live map pinned to Bahar Unnao Gate Main Road, Near Naogoji Kua, Jhansi.
 - **Mobile Responsive:** 100% responsive across mobile, tablet, and desktop devices.
 
@@ -56,7 +52,7 @@ gauri-greens-clone/
     │   └── style.css     # Luxury styling & responsive layout
     ├── js/
     │   └── main.js       # Navigation, tabs, lightbox & WhatsApp booking
-    └── images/           # 12 Authentic Indra Garden photos + branding assets
+    └── images/           # High-resolution Indra Garden photos + branding assets
 ```
 
 ---
