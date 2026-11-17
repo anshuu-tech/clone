@@ -1,53 +1,62 @@
-# Indra Marriage Garden - Website Clone 🏰🌿
+# 🌿 Indra Marriage Garden & Banquet | Jhansi
 
-> Full-fidelity, high-performance website clone of **[Indra Marriage Garden](https://indramarriagegarden.com/)** — Jhansi's premier 5-acre luxury wedding destination, marriage garden, and banquet resort on Unnao Gate Bahar, Nagoji Ka Kua, Jhansi.
+> High-fidelity, luxury wedding venue website for **Indra Marriage Garden** — Jhansi's premier open lawn and banquet celebration destination located at Bahar Unnao Gate Main Road, Near Naogoji Kua, Jhansi, Uttar Pradesh - 284002.
 
-![Indra Marriage Garden Banner](assets/images/wedding-reception.webp)
+![Indra Garden Hero Banner](assets/images/indra-hero-night.jpg)
 
 ---
 
-## 🌟 Key Features
+## 🌟 Key Features & Structure
 
 - **Royal Wedding Design:** Deep emerald green (`#1d4631`) and metallic gold (`#c59b27`) palette with elegant typography (*Playfair Display*, *Cinzel*, *Plus Jakarta Sans*).
-- **Interactive Venue Showcase:** Dynamic tab navigation between:
-  - **Atharvv Lawn:** 32,500 Sq. Ft. | 1,400–1,600+ Pax | 600 Car Parking
-  - **Pratham Lawn:** 24,000 Sq. Ft. | 500–700 Pax | Open-Air Gazebo Setting
-  - **Royal Banquet Hall:** 3,500 Sq. Ft. | 300–400 Pax | 100% Central AC | 2,000+ Events
-  - **AC Rooms & Dormitories:** 20+ Deluxe Suites (250 Sq. Ft.) + 600 Sq. Ft. Luxury Dormitory
+- **12 Authentic On-Site Photos:** Featuring real captured moments of Indra Garden:
+  - `indra-stage-mandap.jpg` — Royal Stage & Floral Mandap
+  - `indra-hero-night.jpg` — Starlit Evening Lawn Illumination
+  - `indra-dining-pavilion.jpg` — Covered Weatherproof Dining Pavilion
+  - `indra-stage-portrait.jpg` — Royal Throne & Stage Close-up
+  - `indra-lawn-daytime.jpg` — Lush Green Open Turf
+  - `indra-aerial-lawn.jpg` — Expansive Grounds Overview
+  - `indra-entrance-gate.jpg` — Grand Entrance on Bahar Unnao Gate
+  - `indra-banquet-setup.jpg` — Banquet Seating & Guest Arrangements
+  - `indra-night-decor.jpg` — Ambient Night Lighting & Fairylights
+  - `indra-venue-view-1.jpg`, `2.jpg`, `3.jpg` — Campus Perspectives & Walkways
+- **Dedicated Venue Spaces:**
+  - **The Grand Open Lawn:** Expansive, open-air green grounds for 1,200–1,600+ guests with wide baraat entry.
+  - **Covered Dining Pavilion:** Weatherproof catering & buffet space with dedicated handwash facilities.
+  - **Royal Stage & Mandap:** Bespoke stage styling, throne backdrops, and photography spotlights.
+  - **Banquet & Dressing Suites:** Private air-conditioned bridal dressing suites with attached washrooms.
 - **Dedicated Subpages:**
-  - `atharvv-lawn.html`
-  - `pratham-lawn.html`
-  - `banquet-hall.html`
-  - `rooms.html`
-  - `weddings.html`
-  - `contact.html`
-- **Filterable Photo & Decor Gallery:** With interactive full-screen Lightbox modal.
-- **Eco-Friendly Concept:** Highlights Indra Marriage Garden' signature *Green Invitations* initiative.
-- **Direct WhatsApp Booking Engine:** Pre-fills event inquiries and redirects directly to WhatsApp (`+91 95890 08911`).
-- **Official FAQs & Testimonials:** Real client reviews and venue Q&As from the original site.
-- **Embedded Google Maps:** Directions to Misrod, Unnao Gate Bahar, Nagoji Ka Kua, Jhansi, Jhansi.
-- **Mobile Responsive:** 100% responsive across mobile, tablet, and desktop with off-canvas navigation.
+  - `atharvv-lawn.html` (The Grand Open Lawn)
+  - `pratham-lawn.html` (Covered Dining Pavilion)
+  - `banquet-hall.html` (Royal Stage & Mandap)
+  - `rooms.html` (Banquet & Dressing Suites)
+  - `weddings.html` (Weddings & Decor)
+  - `contact.html` (Contact Us & Directions)
+- **Direct WhatsApp Booking Engine:** Pre-fills event inquiries and redirects directly to WhatsApp (`+91 98765 43210`).
+- **Interactive Lightbox Modal:** Full-screen zoom and inspection for all 12 gallery photos.
+- **Google Maps Directions:** Live map pinned to Bahar Unnao Gate Main Road, Near Naogoji Kua, Jhansi.
+- **Mobile Responsive:** 100% responsive across mobile, tablet, and desktop devices.
 
 ---
 
-## 📂 Project Structure
+## 📁 Repository Structure
 
 ```
-Indra Marriage Garden-clone/
+gauri-greens-clone/
 ├── index.html            # Main Homepage
-├── atharvv-lawn.html     # Atharvv Lawn Detailed Page
-├── pratham-lawn.html     # Pratham Lawn Detailed Page
-├── banquet-hall.html     # Royal Banquet Hall Page
-├── rooms.html            # Luxury Accommodation & Dormitory Page
+├── atharvv-lawn.html     # The Grand Open Lawn Page
+├── pratham-lawn.html     # Covered Dining Pavilion Page
+├── banquet-hall.html     # Royal Stage & Mandap Page
+├── rooms.html            # Banquet & Dressing Suites Page
 ├── weddings.html         # Weddings, Decor & Catering Page
 ├── contact.html          # Contact & Location Page
 ├── README.md             # Project Documentation
 └── assets/
     ├── css/
-    │   └── style.css     # Complete styling & animations
+    │   └── style.css     # Luxury styling & responsive layout
     ├── js/
     │   └── main.js       # Navigation, tabs, lightbox & WhatsApp booking
-    └── images/           # Authentic brand logos, banners, lawns & decor photos
+    └── images/           # 12 Authentic Indra Garden photos + branding assets
 ```
 
 ---
@@ -62,16 +71,11 @@ python -m http.server 5500
 ```
 Then visit: `http://localhost:5500`
 
-### Using Node / npx:
-```bash
-npx serve
-```
-
 ---
 
 ## 📞 Contact Information (Official)
-- **Venue:** Indra Marriage Garden Marriage Garden & Resort
-- **Location:** Unnao Gate Bahar, Nagoji Ka Kua, Jhansi, Uttar Pradesh
-- **Phone:** +91 95890 08911
-- **Email:** prateek@indramarriagegarden.com
-- **Original Website:** [https://indramarriagegarden.com/](https://indramarriagegarden.com/)
+- **Venue:** Indra Marriage Garden & Banquet
+- **Address:** Bahar Unnao Gate Main Road, Near Naogoji Kua, Jhansi, Uttar Pradesh - 284002
+- **Phone / WhatsApp:** +91 98765 43210
+- **Email:** indragardenjhansi@gmail.com
+- **Visiting Hours:** 9:00 AM – 9:00 PM (Open 7 Days)

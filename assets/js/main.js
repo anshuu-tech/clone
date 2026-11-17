@@ -184,7 +184,7 @@ document.addEventListener('DOMContentLoaded', function () {
 *Message/Notes:* ${data.message || 'I would like to check availability and get pricing details.'}`;
 
     const encodedText = encodeURIComponent(text);
-    const waUrl = `https://wa.me/919589008911?text=${encodedText}`;
+    const waUrl = `https://wa.me/919876543210?text=${encodedText}`;
     window.open(waUrl, '_blank');
   });
 
